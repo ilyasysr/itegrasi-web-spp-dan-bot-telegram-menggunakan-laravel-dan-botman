@@ -1,0 +1,28 @@
+{   "editor.suggestSelection": "first",
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "editor.formatOnSave": true,
+    "editor.fontSize": 14,
+    "workbench.colorTheme": "Material Theme Palenight High Contrast",
+    "editor.fontFamily": "Hack, Source Code Pro, Consolas, 'Courier New', monospace",
+    "oneDarkPro.editorTheme": "oneDarkPro",
+    "oneDarkPro.vivid": true,
+    "workbench.colorCustomizations": {
+        "editor.background": "#1A1B26",
+        "editorGroupHeader.tabsBackground": "#1A1B26",
+        "tab.activeBackground": "#1A1B26"
+    },
+    "editor.tokenColorCustomizations": {
+        "textMateRules": [
+            {
+                "scope":"entity.other.attribute-name.html",
+                "settings": {
+                    "foreground": "#C792EA",
+                    "fontStyle": "italic"
+                }
+            }
+        ]
+    },
+    "editor.lineHeight": 25,
+    "explorer.openEditors.visible": 0,
+    "breadcrumbs.enabled": false
+}
